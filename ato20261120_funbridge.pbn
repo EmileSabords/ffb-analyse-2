@@ -1,0 +1,164 @@
+% PBN 2.1
+[Event "ATO BCSH 20/11/2026"]
+[Site "Bridge Club"]
+[Date "2026.11.20"]
+[Board "3"]
+[West "West"]
+[North "North"]
+[East "East"]
+[South "South"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "N:J63.AK75.532.AT3 KT854.8.864.7654 972.QJT92.A97.K2 AQ.643.KQJT.QJ98"]
+[Scoring "Pairs"]
+[Auction "S"]
+1NT Pass 2C Pass
+2D Pass 3NT Pass
+Pass Pass
+
+[Event "ATO BCSH 20/11/2026"]
+[Site "Bridge Club"]
+[Date "2026.11.20"]
+[Board "5"]
+[West "West"]
+[North "North"]
+[East "East"]
+[South "South"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:764.K54.KQ3.7632 KQJ93.QT7.T87.98 T82.9862.J92.QJT A5.AJ3.A654.AK54"]
+[Scoring "Pairs"]
+[Auction "N"]
+Pass 2NT Pass 3NT
+Pass Pass
+
+[Event "ATO BCSH 20/11/2026"]
+[Site "Bridge Club"]
+[Date "2026.11.20"]
+[Board "22"]
+[West "West"]
+[North "North"]
+[East "East"]
+[South "South"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "N:AQ4.A73.KJ65.AKQ 98732.95.Q872.J7 65.QJT82.3.T9532 KJT.K64.AT94.864"]
+[Scoring "Pairs"]
+[Auction "E"]
+Pass Pass 2C Pass
+2D Pass 2NT Pass
+6NT Pass Pass Pass
+
+[Event "ATO BCSH 20/11/2026"]
+[Site "Bridge Club"]
+[Date "2026.11.20"]
+[Board "8"]
+[West "West"]
+[North "North"]
+[East "East"]
+[South "South"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N:KJ43.4.T843.KQT9 A86.AJ98.AK75.82 752.QT63.962.A43 QT9.K752.QJ.J765"]
+[Scoring "Pairs"]
+[Auction "W"]
+1NT Pass Pass Pass
+
+[Event "ATO BCSH 20/11/2026"]
+[Site "Bridge Club"]
+[Date "2026.11.20"]
+[Board "24"]
+[West "West"]
+[North "North"]
+[East "East"]
+[South "South"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "N:J872.6.854.J9742 964.KQT8532.72.K AQ3.AJ9.KJT9.T53 KT5.74.AQ63.AQ86"]
+[Scoring "Pairs"]
+[Auction "W"]
+3H Pass 4H Pass
+Pass Pass
+
+[Event "ATO BCSH 20/11/2026"]
+[Site "Bridge Club"]
+[Date "2026.11.20"]
+[Board "12"]
+[West "West"]
+[North "North"]
+[East "East"]
+[South "South"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "N:AKT72.QT2.QT8.97 864.A4.A73.KQJ86 QJ5.K87.KJ95.T32 93.J9653.642.A54"]
+[Scoring "Pairs"]
+[Auction "W"]
+1C 1S 1NT Pass
+Pass Pass
+
+[Event "ATO BCSH 20/11/2026"]
+[Site "Bridge Club"]
+[Date "2026.11.20"]
+[Board "13"]
+[West "West"]
+[North "North"]
+[East "East"]
+[South "South"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:64.AK842.QT8.K54 Q872.JT6.K93.AQ2 AKJT93.3.A765.JT 5.Q975.J42.98763"]
+[Scoring "Pairs"]
+[Auction "N"]
+1H 1S 2H 3H
+Pass 4S Pass Pass
+Pass
+
+[Event "ATO BCSH 20/11/2026"]
+[Site "Bridge Club"]
+[Date "2026.11.20"]
+[Board "15"]
+[West "West"]
+[North "North"]
+[East "East"]
+[South "South"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "N:KT8.K53.KJ4.K543 AJ92.JT8.97652.8 763.AQ972.8.J972 Q54.64.AQT3.AQT6"]
+[Scoring "Pairs"]
+[Auction "S"]
+1D Pass 3NT Pass
+Pass Pass
+
+[Event "ATO BCSH 20/11/2026"]
+[Site "Bridge Club"]
+[Date "2026.11.20"]
+[Board "18"]
+[West "West"]
+[North "North"]
+[East "East"]
+[South "South"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "N:A83.3.KQ875.JT74 K754.Q986.J2.853 9.AKJT74.A43.AQ6 QJT62.52.T96.K92"]
+[Scoring "Pairs"]
+[Auction "E"]
+2C Pass 2D Pass
+2H Pass 4H Pass
+Pass Pass
+
+[Event "ATO BCSH 20/11/2026"]
+[Site "Bridge Club"]
+[Date "2026.11.20"]
+[Board "21"]
+[West "West"]
+[North "North"]
+[East "East"]
+[South "South"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKJT9653.K.AK3.K 42.QJT2.987.A875 Q8.A874.T65.QJT2 7.9653.QJ42.9643"]
+[Scoring "Pairs"]
+[Auction "N"]
+2D Pass 2H Pass
+4S Pass Pass Pass
+
